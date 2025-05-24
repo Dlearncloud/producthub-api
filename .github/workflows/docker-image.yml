@@ -28,3 +28,4 @@ jobs:
         file: ./backend/Dockerfile
         push: true
         tags: Dlearncloud/producthub-api:latest
+ 
